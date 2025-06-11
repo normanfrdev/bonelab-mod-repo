@@ -26,3 +26,6 @@ Son3x1.TheTowerV5 - https://archive.org/download/bonelab-patch-3-mods/Son3x1.The
 XTRGSRIN07.McDonalds - https://mod.io/g/bonelab/m/mcdonalds4
 Bugrax.Thrusters - https://mod.io/g/bonelab/m/thrusters-thrust-rocketship-rocket-booster
 Tetovo.UAWAR - https://mod.io/g/bonelab/m/war-ua#description
+Fizzyhex.BodyTools - https://mod.io/g/bonelab/m/body-tools
+BaBaCorp.711 - https://mod.io/g/bonelab/m/711-alpha#description
+Elijoe.MediaPlayer - https://mod.io/g/bonelab/m/media-players#description
