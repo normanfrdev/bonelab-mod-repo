@@ -30,3 +30,4 @@ Fizzyhex.BodyTools - https://mod.io/g/bonelab/m/body-tools
 BaBaCorp.711 - https://mod.io/g/bonelab/m/711-alpha
 Elijoe.MediaPlayer - https://mod.io/g/bonelab/m/media-players
 negetiveZERO.Surron - https://mod.io/g/bonelab/m/surron-electric-dirtbike
+Rickpicky21.SixTwelve - https://mod.io/g/bonelab/m/612-sandbox
