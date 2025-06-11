@@ -22,6 +22,6 @@ Sealters.MythFM - https://mod.io/g/bonelab/m/mythfm
 ShortStak.StakPack - https://mod.io/g/bonelab/m/stak-pack
 Sileqoenn.Taser - https://mod.io/g/bonelab/m/the-taser
 Slimy.F15 - https://mod.io/g/bonelab/m/seats-n-stuff
-Son3x1.TheTowerV5 - (none)
+Son3x1.TheTowerV5 - https://archive.org/download/bonelab-patch-3-mods/Son3x1.TheTowerV5.zip
 XTRGSRIN07.McDonalds - https://mod.io/g/bonelab/m/mcdonalds4
 Bugrax.Thrusters - https://mod.io/g/bonelab/m/thrusters-thrust-rocketship-rocket-booster
