@@ -18,10 +18,11 @@ Mega1164.MegasCarPack - https://mod.io/g/bonelab/m/megas-car-pack
 MegaSonic64.RecRoom - https://mod.io/g/bonelab/m/rec-room
 minecart.SeatsNStuff - https://mod.io/g/bonelab/m/seats-n-stuff
 RachelCorp.DestructibleDudes - https://mod.io/g/bonelab/m/destructible-dudes
-Sealters.MythFM - https://mod.io/g/bonelab/m/mythfm
+SirGiggleTip.SGTDLCpack - https://mod.io/g/bonelab/m/sgt-dlc-pack#description
 ShortStak.StakPack - https://mod.io/g/bonelab/m/stak-pack
 Sileqoenn.Taser - https://mod.io/g/bonelab/m/the-taser
 Slimy.F15 - https://mod.io/g/bonelab/m/seats-n-stuff
 Son3x1.TheTowerV5 - https://archive.org/download/bonelab-patch-3-mods/Son3x1.TheTowerV5.zip
 XTRGSRIN07.McDonalds - https://mod.io/g/bonelab/m/mcdonalds4
 Bugrax.Thrusters - https://mod.io/g/bonelab/m/thrusters-thrust-rocketship-rocket-booster
+Tetovo.UAWAR - https://mod.io/g/bonelab/m/war-ua#description
