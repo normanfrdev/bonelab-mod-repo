@@ -32,3 +32,4 @@ Elijoe.MediaPlayer - https://mod.io/g/bonelab/m/media-players
 negetiveZERO.Surron - https://mod.io/g/bonelab/m/surron-electric-dirtbike
 Rickpicky21.SixTwelve - https://mod.io/g/bonelab/m/612-sandbox
 Hazzy.TheTablet - https://mod.io/g/bonelab/m/the-tablet
+KickerMix.DDLCNPC - https://mod.io/g/bonelab/m/doki-doki-literature-club-ddlc-npc-pack
